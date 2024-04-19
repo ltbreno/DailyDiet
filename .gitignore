@@ -1,3 +1,11 @@
+# Dependencies
 node_modules
+
+# Database
 db/app.db
+
+# Enviroment
 .env
+
+# Build
+build
